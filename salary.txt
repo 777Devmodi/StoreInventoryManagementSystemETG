@@ -1,0 +1,1 @@
+{"Product_Id": 10001, "NamesofProduct": "kitkat", "purchasedamount": 20, "Timeofpurchase": "Sat Sep  4 20:43:22 2021"}
