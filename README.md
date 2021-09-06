@@ -5,15 +5,15 @@ And then actuall Billing process starts where first the keys of a dictionary is 
 and at the end the update quantity is again stored back in json format in that file  
 Along with the Sales record which shows the product id purchase amount and the date of purchased 
 
-## there is one common file naming mistake which is not that important i.e. sales final is by mistake named as salary 
-
+### there is one common variable naming mistake which is not that important i.e. sales final is by mistake named as salary 
+----
 ## feature used in project
---> Use of dictonary.
---> json (dumps and load ) to export the data.
---> Conversion of keys in list format for easy accessing of the dictonary.
---> Use time library to display the time of purchase.
-
-#Description of myself?
+    > Use of dictonary.
+    > json (dumps and load ) to export the data.
+    > Conversion of dictonary keys in list format for easy accessing of the dictonary.
+    > Use time library to display the time of purchase.
+----
+# Description of myself!
 Hello! Myself Dev Modi  currently a student at CKPCET , learing new things and grabbing the internship 
 and its prestigues to got an intership at Elite Techno Groups about Learning ML/AI with help of Python
 
