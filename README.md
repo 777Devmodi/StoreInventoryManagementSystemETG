@@ -7,6 +7,12 @@ Along with the Sales record which shows the product id purchase amount and the d
 
 ## there is one common file naming mistake which is not that important i.e. sales final is by mistake named as salary 
 
+## feature used in project
+--> Use of dictonary.
+--> json (dumps and load ) to export the data.
+--> Conversion of keys in list format for easy accessing of the dictonary.
+--> Use time library to display the time of purchase.
+
 #Description of myself?
 Hello! Myself Dev Modi  currently a student at CKPCET , learing new things and grabbing the internship 
 and its prestigues to got an intership at Elite Techno Groups about Learning ML/AI with help of Python
