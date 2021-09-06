@@ -17,4 +17,9 @@ Along with the Sales record which shows the product id purchase amount and the d
 Hello! Myself Dev Modi  currently a student at CKPCET , learing new things and grabbing the internship 
 and its prestigues to got an intership at Elite Techno Groups about Learning ML/AI with help of Python
 
+---
+## To contact.
+
+#### Linkedin : www.linkedin.com/in/dev-modi-1392b1214
+
 
